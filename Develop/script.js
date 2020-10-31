@@ -45,6 +45,30 @@ function generatePassword() {
 
 
 
+var functionArray = [
 
+  function getnumbers () {
+    return String.fromCharCode(Math.floor)(Math.random)()
+  },
+
+  function getupperCase  () {
+    return String.fromChartCode(Math.floor)(Math.random)()
+  },
+
+  function getlowerCase () {
+    return String.fromChartCode(Math.floor)(Math.random)()
+  },
+
+  function getspecial ()  {
+    return String.fromChartCode(Math.floor)(Math.random)()
+  },
+  
+  
+]; 
+
+
+document.getElementById("password").value
+
+alert(password)
 
 }
