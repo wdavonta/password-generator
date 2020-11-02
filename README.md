@@ -7,7 +7,7 @@ Password Generator Website
 
 [Github](https://wdavonta.github.io/password-generator/ "Password generator Repo"
 
-[Link] (https://wdavonta.github.io/password-generator/)
+[Link] (https://wdavonta.github.io/password-generator/Develop/index.html)
 
 
 # About the project
@@ -15,7 +15,7 @@ This project is about making place generate a password to create a strong passwo
 
 
 
-![alt text]( "Screenshot of webite")
+![alt text](generator-screenshot.png "Screenshot of webite")
 
 # Contact Info
 Da'Vonta Williamson
