@@ -11,7 +11,7 @@ Password Generator Website
 
 
 # About the project
-This project is about making place generate a password to create a strong password that provides greater security.
+This project is about making place generate a password to create a strong password that provides greater security. To be able to chooose between 8 to 128 character, upper, lower, and/or special characters.
 
 
 
